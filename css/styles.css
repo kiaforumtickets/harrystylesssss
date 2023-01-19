@@ -17,7 +17,7 @@ body {
     width: 70%;
     padding: 20px;
    border-radius: 1em;
-    position: static;
+    position: relative;
 }
 
 .harryimg{ 
