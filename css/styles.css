@@ -46,6 +46,32 @@ body {
  
 }
 
+ .event-location{
+    font-size: 1.1em;
+    line-height: 0.5;
+    display: block;
+    padding: 0.6em;
+  }
+  
+  .event-street {
+    padding: 0.8em;
+    font-size: 0.9em;
+    color: #7E7E7E;
+  }
+  
+  .event-price{
+    color: #2BC23A;
+    float: right;
+    margin: 0.5em;
+  }
+  
+  .event-date{
+    font-size: 1.1em;
+    line-height: 0.5;
+    display: block;
+    padding: 0.6em;
+  }
+  
 
 
 .styles_select__bDyLH.styles_disabled__3mThF {
